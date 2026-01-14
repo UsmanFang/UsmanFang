@@ -5,6 +5,7 @@ I am a computer science student with a strong interest in programming and proble
 
 # Skills and tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 - Java (core, file handling, console applications)
 - Javascript
 - HTML, CSS
