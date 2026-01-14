@@ -15,7 +15,7 @@ I am a computer science student with a strong interest in programming and proble
 
 # Projects:
 - SecurePass – A console-based password manager with admin and user roles, built in Java.
-  https://github.com/UsmanFang/SecurePass
+  [View Project Repo](https://github.com/UsmanFang/SecurePass)
 - HomeE
 
 # Currently learning:
@@ -24,6 +24,25 @@ I am a computer science student with a strong interest in programming and proble
 
 
 <!--
+====================================================================================================================================================================
+Lists
+- Java
+- Python
+- Git
+
+Ordered list:
+1. First
+2. Second
+3. Third
+
+Links
+Instead of pasting the link alone, do this:
+[SecurePass](https://github.com/UsmanFang/SecurePass)
+
+**bold text**
+*italic text*
+
+====================================================================================================================================================================
 **UsmanFang/UsmanFang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
