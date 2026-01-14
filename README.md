@@ -4,6 +4,7 @@
 I am a computer science student with a strong interest in programming and problem solving. I enjoy building small but complete projects and learning how things work under the hood.
 
 # Skills and tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
 - Java (core, file handling, console applications)
 - Javascript
 - HTML, CSS
@@ -18,7 +19,7 @@ I am a computer science student with a strong interest in programming and proble
   [View Project Repo](https://github.com/UsmanFang/SecurePass)
 - HomeE
 
-# Currently learning:
+# Currently learning📚:
 - Improving Java fundamentals
 - Writing cleaner and more maintainable code
 
