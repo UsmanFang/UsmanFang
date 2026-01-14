@@ -1,5 +1,5 @@
 ## Hi there 👋
-   #I’m Usman
+   # I’m Usman
 
 I am a computer science student with a strong interest in programming and problem solving. I enjoy building small but complete projects and learning how things work under the hood.
 
