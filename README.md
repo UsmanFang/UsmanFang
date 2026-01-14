@@ -1,4 +1,4 @@
-```Profile: Muhammad Usman```
+``Profile: Muhammad Usman``
 ## Hi there 👋
    # I’m Muhammad Usman
 
@@ -123,3 +123,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Muhammad Usman - Computer Science Student - GitHub Portfolio -->
