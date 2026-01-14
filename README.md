@@ -55,7 +55,10 @@ Instead of pasting the link alone, do this:
 
 **bold text**
 *italic text*
-
+two spaces at the end of line for forced line break
+4 spaces to make a code block
+use `` for code-like highlight
+use``` for similar highlight
 ===============================================================================================================================================================
 
 
