@@ -7,8 +7,8 @@ I am a computer science student with a strong interest in programming and proble
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
-- ***Languages:***     Java, Python, C, C++  
-- ***Web:***           HTML, CSS, JavaScript  
+- ***Languages:***     Java, Python, C, C++ 
+- ***Web:***           HTML, CSS, JavaScript
 - ***Tools:***         Git, GitHub
 
 # Projects:
