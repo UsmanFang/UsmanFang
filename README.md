@@ -29,9 +29,9 @@ I am a computer science student with a strong interest in programming and proble
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 # Projects:
-- SecurePass – A console-based password manager with admin and user roles, built in Java.
-  [View Project Repo](https://github.com/UsmanFang/SecurePass)
-- HomeEscape – A Java console-based escape room game where players solve puzzles to unlock a door. [HomeEscape Repo](https://github.com/UsmanFang/HomeEscape)
+- [SecurePass](https://github.com/UsmanFang/SecurePass) – A console-based password manager with admin and user roles, built in Java.
+  
+- [HomeEscape](https://github.com/UsmanFang/HomeEscape) – A Java console-based escape room game where players solve puzzles to unlock a door. 
 
 # Currently learning📚:
 - Improving Java fundamentals
