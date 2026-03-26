@@ -33,7 +33,7 @@ I am a computer science student with a strong interest in programming and proble
 # Projects:
 - [SecurePass](https://github.com/UsmanFang/SecurePass) – A console-based password manager with admin and user roles, built in Java.
   
-- [HomeEscape]([https://github.com/UsmanFang/HomeEscape](https://github.com/m-kaif-qureshi/HomeEscape)) – A Java console-based escape room game where players solve puzzles to unlock a door. 
+- [HomeEscape](https://github.com/m-kaif-qureshi/HomeEscape) – A Java console-based escape room game where players solve puzzles to unlock a door. 
 
 # Currently learning📚:
 - Improving Java fundamentals
